@@ -1,0 +1,12 @@
+/media
+/static
+*.pyc
+*.sqlite3
+/env
+/venv
+/_env
+/.vscode
+/.env
+*.session.sql
+*.ipynb
+*.coverage
