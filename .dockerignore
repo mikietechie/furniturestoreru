@@ -1,0 +1,15 @@
+
+*.env
+/env
+/.vscode
+/tempenv
+/dev
+/data
+*.pyc
+*.sqlite3*
+
+# MEDIA and Collected Static files and html template file
+# /static
+/media
+/htmlcov
+/logs
